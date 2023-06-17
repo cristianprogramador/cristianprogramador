@@ -22,7 +22,9 @@ Full stack Developer
   <code><img height="75" src="asset/django.png"></code> &nbsp;&nbsp;
 </p>  
 
+<br/>
 
+<h2 align="center">Projects</h2>
 
 
 

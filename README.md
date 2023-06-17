@@ -24,13 +24,18 @@ Full stack Developer
 
 <br/>
 
-<h2 align="center">Projects</h2>
-<a href="https://github.com/cristianprogramador/EntregaFinal-CoderHouse"><img src="https://user-images.githubusercontent.com/108911455/227751977-79fb5692-1eb7-46f2-97cf-6b46115d63d9.png" width="300px" alt="mail"></a>&nbsp; &nbsp;
+<!--<h2 align="center">Projects</h2>
+<a href="https://github.com/cristianprogramador/EntregaFinal-CoderHouse"><img src="https://user-images.githubusercontent.com/108911455/227751977-79fb5692-1eb7-46f2-97cf-6b46115d63d9.png" width="300px" alt="mail"></a>&nbsp; &nbsp;-->
 
 <br/>
 
 <h2 align="center"> How to reach me: </h2>
 
+<p align="center">
+  <a href="mailto:cristiandrivedatos@gmail.com"><img height="40" src="asset/gmail.svg"> &nbsp;&nbsp;
+  <a href="https://github.com/cristianprogramador"><img height="40" src="asset/github.svg"> &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/cristian-cerda-b438ab249/"><img height="40" src="asset/linkedin.svg"> &nbsp;&nbsp;
+</p>  
 
 
 

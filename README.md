@@ -10,6 +10,9 @@ Full stack Developer
 
   <code><img height="75" src="asset/html.png"></code> &nbsp;&nbsp;
   <code><img height="75" src="asset/css.png"></code> &nbsp;&nbsp;
+  <code><img height="75" src="asset/js.png"></code> &nbsp;&nbsp;
+  <code><img height="75" src="asset/react.png"></code> &nbsp;&nbsp;
+  <code><img height="75" src="asset/git.png"></code> &nbsp;&nbsp;
   
 
 

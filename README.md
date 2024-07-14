@@ -22,7 +22,7 @@ Full stack Developer
   <code><img height="75" src="asset/css.png"></code> &nbsp;&nbsp;
   <code><img height="75" src="asset/js.png"></code> &nbsp;&nbsp;
   <code><img height="75" src="asset/react.png"></code> &nbsp;&nbsp;
-  <code><img heigth="75" src="asset/node.png"></code> &nbsp;&nbsp;
+  <code><img heigth="75" src="asset/nodejs.png"></code> &nbsp;&nbsp;
 </p>  
 <p align="center">
   <code><img height="75" src="asset/git.png"></code> &nbsp;&nbsp;

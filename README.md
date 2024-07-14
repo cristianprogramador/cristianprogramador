@@ -37,9 +37,13 @@ Full stack Developer
   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
   ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
   ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 
-<p align="center">
+<!--<p align="center">
   <code><img height="75" src="asset/html.png"></code> &nbsp;&nbsp;
   <code><img height="75" src="asset/css.png"></code> &nbsp;&nbsp;
   <code><img height="75" src="asset/js.png"></code> &nbsp;&nbsp;
@@ -52,7 +56,7 @@ Full stack Developer
   <code><img height="75" src="asset/Bootstrap.png"></code> &nbsp;&nbsp;
   <code><img height="75" src="asset/python.png"></code> &nbsp;&nbsp;
   <code><img height="75" src="asset/django.png"></code> &nbsp;&nbsp;
-</p>  
+</p>-->
 
 <br/>
 
